@@ -66,10 +66,7 @@ font-weight: normal;
   font-size: 30px;
   font-weight: normal;
   text-align: center;
-/*PRECISO DEIXAR ESSA FONTE NEGRITO*/
 }
-
-/*COLOCAR AQUI UM TRACEJADO*/ 
 
 .contrat{
 font-family: "Montserrat" ; 
@@ -92,6 +89,7 @@ margin: auto;
   display: block;
   margin: auto;
   color: #00a78e;
+
 }
 
 .contrat-1{
@@ -101,13 +99,14 @@ margin: auto;
   color: #293651;
   font-weight: normal;
   margin-top: 30px;
-  /*SEPARAR AS CAIXAS DAS ATRIBUIÇÕES*/
+  
 }
 
 .projetos{
   background-color: #f9f9f9;
   width: 700px;
   margin: auto;
+  
 
 }
 
@@ -120,8 +119,43 @@ margin: auto;
   font-weight: normal;
   text-align: center;
   margin: 20px 20px 20px 20px;
-
-/*PRECISO DEIXAR ESSA FONTE NEGRITO*/
 }
 
-/*COLOCAR AQUI UM TRACEJADO*/ 
+.quadrado{
+  background-color: #293651;
+  display: inline-block;
+  box-shadow: 10px 5px 5px #837a7c;;
+  display: inline-block;
+  width: 20em;
+  font-size: 10x;
+  margin: 2px;
+}
+.text-quadrado{
+  text-align: center justify;
+  font-size: large;
+
+}
+.contatos{
+  background-color: #00a78e;
+  /* margin: 10px; */
+  /* width: 20px; */
+  /* height: 20px; */
+  /* padding: 20%; */
+  background-color: #00a78e
+  display: inline-block;
+  box-shadow: 10px 5px 5px #837a7c;;
+  width: 20em;
+  font-size: 10x;
+  margin: 2px;
+}
+
+.text-contat{
+  width: 700px;
+  margin: auto;
+  font-family: "Montserrat" ; 
+  color: #293651;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+}
