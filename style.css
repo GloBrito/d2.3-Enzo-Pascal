@@ -64,7 +64,7 @@ font-weight: normal;
   font-family: "Montserrat" ; 
   color: #293651;
   font-size: 30px;
-  font-weight: normal;
+  font-weight: bolder;
   text-align: center;
 }
 
@@ -99,7 +99,7 @@ margin: auto;
   color: #293651;
   font-weight: normal;
   margin-top: 30px;
-  
+  font-weight: bolder;
 }
 
 .projetos{
@@ -133,7 +133,7 @@ margin: auto;
   font-size: large;
   color: #837a7c;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin: 30;
+  margin: auto;
 }
 
 .icone-qdr{
@@ -167,4 +167,6 @@ margin: auto;
   font-weight: normal;
   text-align: center;
   margin: 20px 20px 20px 20px;
+  font-weight: bolder;
+
 }
